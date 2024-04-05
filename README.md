@@ -1,0 +1,2 @@
+# loyalclaims
+TRUSTWALLET
